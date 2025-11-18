@@ -1,1 +1,6 @@
-
+winstons-game/
+│
+├── index.html
+├── game.js
+└── assets/
+    └── office.png
